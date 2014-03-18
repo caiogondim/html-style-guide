@@ -35,3 +35,8 @@ content issues is prevented, because the URL is now relative.
    background: url(http://caiogondim.com/img/logo.png);
 }
 ```
+
+## Reference
+
+This documented is highly inspired in these others style guides:
+- [Google HTML/CSS Guide](https://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
