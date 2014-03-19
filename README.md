@@ -10,6 +10,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore, temporibus,
 odio, beatae quo atque consectetur unde nesciunt vero eos harum excepturi
 perferendis similique voluptatum fugit facere voluptatibus suscipit enim ullam.
 
+
 ## Protocol
 
 Ommit the protocol (http:, https:) from URLs pointing to images, style sheets,
@@ -35,6 +36,33 @@ content issues is prevented, because the URL is now relative.
    background: url(http://caiogondim.com/img/logo.png);
 }
 ```
+
+## Indentation
+
+Always use 2 spaces for indentation.
+
+```html
+<html>
+  <head></head>
+  <body>
+    <section></section>
+  </body>
+</html>
+```
+
+
+## Capitalization
+
+Use only lowercase.
+
+```html
+<!-- Bad -->
+<A HREF="/">Home</A>
+
+<!-- Good -->
+<a href="/">Home</a>
+```
+
 
 ## Reference
 
