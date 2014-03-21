@@ -143,6 +143,47 @@ The currency symbol for the Euro is “€”.
 Mr.&nbsp;Someone
 ```
 
+
+## Self-closing tags
+
+Use the HTML5 way, not XHTML.
+
+```html
+<!-- Bad -->
+<br />
+<hr />
+
+<!-- Good -->
+<br>
+<hr>
+```
+
+## Attributes
+
+Again, prefer the HTML5 way, not XHTML.
+
+```html
+<!-- Bad -->
+<input type="checkbox" checked="checked">
+
+<!-- Good -->
+<input type="checkbox" checked>
+```
+
+
+## Quotes
+
+Always use double quotes.
+
+```html
+<!-- Bad -->
+<input type=checkbox>
+<input type='checkbox'>
+
+<!-- Good -->
+<input type="checkbox">
+```
+
 ## Reference
 
 This documented is highly inspired in these others style guides:
