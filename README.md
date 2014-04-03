@@ -1,13 +1,20 @@
 # HTML style guide
 
 <img
-    src="https://raw.github.com/caiogondim/html-style-guide/master/logo.png"
-    alt="HTML style guide logo"
-    align="right"
+  src="https://raw.github.com/caiogondim/html-style-guide/master/logo.png"
+  alt="HTML style guide logo"
+  align="right"
 />
 
-My personal way of writing HTML, based in my own experience and others style
-guides.
+> A style guide is about consistency. Consistency with this style guide is
+> important. Consistency within a project is more important. Consistency within
+> one module or function is most important.
+>
+> But most importantly: know when to be inconsistent -- sometimes the style guide
+> just doesn't apply. When in doubt, use your best judgment. Look at other
+> examples and decide what looks best. And don't hesitate to ask!
+>
+> PEP 8, Python
 
 
 ## Protocol
