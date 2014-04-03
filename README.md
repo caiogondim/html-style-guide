@@ -158,6 +158,7 @@ Use the HTML5 way, not XHTML.
 <hr>
 ```
 
+
 ## Attributes
 
 Again, prefer the HTML5 way, not XHTML.
@@ -183,6 +184,32 @@ Always use double quotes.
 <!-- Good -->
 <input type="checkbox">
 ```
+
+
+## Maximum line length
+
+Try as hard as you can to keep line lenght slower than 80 columns. It improves
+readability and makes possible to use a 2 columns split view in your editor
+(your editor supports it, right?) without horizontal scroll.
+
+```html
+<!-- Bad -->
+<img class="block__element" id="unicorn" src="http://cl.ly/image/1a1U013E002Z" alt="Unicorn, rainbows, poop and stuff" width="500">
+
+<!-- Good -->
+<img
+  class="block__element"
+  id="unicorn"
+  src="http://cl.ly/image/1a1U013E002Z"
+  alt="Unicorn, rainbows, poop and stuff"
+  width="500"
+>
+```
+
+Also, it's a good pratice to put every attribute in it's line, since Git doesn't
+show in a diff **what** in a line was modified, only that it's was modified.
+
+>>>>>>> Adds “Maximum line length” rule
 
 ## Reference
 
