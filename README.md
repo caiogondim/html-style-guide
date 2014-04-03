@@ -208,7 +208,6 @@ readability and makes possible to use a 2 columns split view in your editor
 Also, it's a good pratice to put every attribute in it's line, since Git doesn't
 show in a diff **what** in a line was modified, only that it's was modified.
 
->>>>>>> Adds “Maximum line length” rule
 
 ## Reference
 
