@@ -6,9 +6,8 @@
     align="right"
 />
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore, temporibus,
-odio, beatae quo atque consectetur unde nesciunt vero eos harum excepturi
-perferendis similique voluptatum fugit facere voluptatibus suscipit enim ullam.
+My personal way of writing HTML, based in my own experience and others style
+guides.
 
 
 ## Protocol
