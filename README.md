@@ -122,7 +122,7 @@ sheets and scripts for the current document.
 <head>
   <meta charset="UTF-8">
   <title>Example</title>
-  <link rel="stylesheet" href="main.css" />
+  <link rel="stylesheet" href="main.css">
 </head>
   <body>
     <h1>Lorem Ipsum</h1>
